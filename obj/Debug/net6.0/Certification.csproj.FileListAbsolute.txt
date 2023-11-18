@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\seminarc#\Certification\obj\Debug\net6.0\Certification.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\seminarc#\Certification\obj\Debug\net6.0\Certification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\seminarc#\Certification\obj\Debug\net6.0\Certification.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\seminarc#\Certification\obj\Debug\net6.0\Certification.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\seminarc#\Certification\obj\Debug\net6.0\Certification.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\seminarc#\Certification\bin\Debug\net6.0\Certification.exe
+C:\Users\Lenovo\Desktop\seminarc#\Certification\bin\Debug\net6.0\Certification.deps.json
+C:\Users\Lenovo\Desktop\seminarc#\Certification\bin\Debug\net6.0\Certification.runtimeconfig.json
+C:\Users\Lenovo\Desktop\seminarc#\Certification\bin\Debug\net6.0\Certification.dll
+C:\Users\Lenovo\Desktop\seminarc#\Certification\bin\Debug\net6.0\Certification.pdb
+C:\Users\Lenovo\Desktop\seminarc#\Certification\obj\Debug\net6.0\Certification.dll
+C:\Users\Lenovo\Desktop\seminarc#\Certification\obj\Debug\net6.0\refint\Certification.dll
+C:\Users\Lenovo\Desktop\seminarc#\Certification\obj\Debug\net6.0\Certification.pdb
+C:\Users\Lenovo\Desktop\seminarc#\Certification\obj\Debug\net6.0\Certification.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\seminarc#\Certification\obj\Debug\net6.0\ref\Certification.dll
